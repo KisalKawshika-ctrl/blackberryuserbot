@@ -1,5 +1,5 @@
 {
-  "name": "Nana - Telegram Userbot with Assistant",
+  "name": "blackberry Telegram Userbot with Assistant",
   "description": "A modular Telegram Userbot with Assistant running on Python 3.6+",
   "logo": "https://i.imgur.com/m7KfBVq.png",
   "keywords": [
@@ -12,7 +12,7 @@
     "productivity",
     "testing"
   ],
-  "repository": "https://github.com/legenhand/Nana-Bot",
+  "repository": "https://github.com/KisalKawshika-ctrl/blackberryuserbot",
   "website": "sagita.tech",
   "success_url": "https://t.me/nanabotsupport",
   "stack": "container",
