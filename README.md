@@ -19,7 +19,7 @@ A: What Nana makes a Unique userbot is because of the assistant to control your 
 
 ### Installation Guide
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/legenhand/Nana-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KisalKawshika-ctrl/blackberryuserbot)
 
 See our wikis to get [Installation Guide](https://docs.harumi.tech/).
 
